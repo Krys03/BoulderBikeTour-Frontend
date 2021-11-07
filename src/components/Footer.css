@@ -1,0 +1,11 @@
+.wrapper1{
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+
+.bg-light{
+
+    background-color: #22110D !important;
+}

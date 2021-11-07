@@ -1,0 +1,31 @@
+.ath-title1 {
+    color: #fbac4e;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.ath-title2{
+    
+    color: black !important;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+div.my-1{
+    display:flex !important;
+    justify-content: space-between !important;
+}
+
+.backgrd{
+    background-color: #22110d;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239c9c9c' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.carousel.slide{
+    background-size: cover;
+}
+

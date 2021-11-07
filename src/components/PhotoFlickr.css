@@ -1,0 +1,48 @@
+.container1{
+
+  display: flex;
+  justify-content: center;
+}
+
+.wrap1{
+
+  margin-right: 80px;
+  margin-top: 50px;
+}
+
+.wrap2{
+
+  margin-right: 80px;
+  padding-bottom: 50px;
+}
+
+
+
+
+.btn.btn-primary.m-3{
+    background-color:#22110D;
+    border-color: #22110D;
+    margin-top: 15px;
+}
+
+
+.App{
+
+      background-color: #fbac4e;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23585858' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+      
+}
+
+@media only screen and (max-width: 990px) {
+  .wrap1{
+    margin-left: 60px !important;
+  }
+  .wrap2 {
+
+     margin-left: 80px;
+  }
+
+  .scrollTop{
+    padding-left: 80px;
+  }
+}

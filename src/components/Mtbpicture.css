@@ -1,0 +1,14 @@
+.position-relative{
+    background-image: url("../components/mountainbanner1.jpg"), linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0));
+     background-size: cover;
+}
+
+.bg-dark{
+    background-image: url("../components/mountainsplit1.jpg"), linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0));
+    background-size: cover;
+}
+
+.bg-info{
+    background-image: url("../components/mountainsplit2.jpg"), linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0));
+    background-size: cover;
+}

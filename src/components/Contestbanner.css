@@ -1,0 +1,32 @@
+.contestbackground{
+    background-color: #1A1A1A;
+}
+
+
+
+input {-webkit-appearance: none; box-shadow: none !important; }
+:-webkit-autofill { color: #fff !important; }
+
+
+.btn-primary{
+
+    margin-top: 25px;
+    background-color: #38c609;
+    border-color: #38c609;
+
+    
+}
+
+.btn-primary:hover {
+
+    background-color: #185f00;
+    border-color: #185f00;
+    
+    
+}
+
+.bannerm{
+    
+    background-image:  center;
+}
+

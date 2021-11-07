@@ -1,0 +1,47 @@
+.navspace{
+
+   padding-right: 125px ;
+  
+}
+
+.navb{
+
+  background-color: #22110D;
+  
+}
+
+.pr-5.nav-link{
+
+  color:#FBAC4E !important; 
+  
+
+}
+
+a.pr-5 :hover{
+
+  color: blueviolet !important; 
+
+}
+
+#toggle1{
+  background-color:#FBAC4E!important;
+  
+  
+} 
+  
+.navbar-collapse{
+  display: flex;
+  justify-content: center;
+
+}
+
+.navb.navbar.navbar-expand-lg.navbar-light{
+
+  padding-left: 30px;
+}
+
+@media only screen and (max-width: 990px) {
+  #toggle1 {
+    margin-right: 10px !important;
+  }
+}
